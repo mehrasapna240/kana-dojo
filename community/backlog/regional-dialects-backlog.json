@@ -447,7 +447,7 @@
     "note": "Example: 食べへん = 食べない。 (Set 3)",
     "id": 45,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "しばれる",
@@ -457,7 +457,7 @@
     "note": "Used for severe winter cold. (Set 3)",
     "id": 46,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "なまら",
@@ -667,7 +667,7 @@
     "note": "Hokkaido intensifier. (Set 4)",
     "id": 67,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "したっけ",
@@ -677,7 +677,7 @@
     "note": "Transition/goodbye phrase. (Set 4)",
     "id": 68,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜ばい",
@@ -687,7 +687,7 @@
     "note": "Assertive friendly ending. (Set 4)",
     "id": 69,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜けん",
@@ -786,7 +786,7 @@
     "region": "Kansai",
     "note": "Explanatory ending in conversation. (Set 4)",
     "id": 79,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
