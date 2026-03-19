@@ -757,7 +757,7 @@
     "note": "Prohibitive nuance. (Set 4)",
     "id": 76,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "なんくるないさ",
@@ -767,7 +767,7 @@
     "note": "Famous Okinawan resilience phrase. (Set 4)",
     "id": 77,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "にふぇーでーびる",
@@ -777,7 +777,7 @@
     "note": "Okinawan gratitude expression. (Set 4)",
     "id": 78,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜やねん",
@@ -787,7 +787,7 @@
     "note": "Explanatory ending in conversation. (Set 4)",
     "id": 79,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "おおきに",
@@ -797,7 +797,7 @@
     "note": "Traditional gratitude expression. (Set 4)",
     "id": 80,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "ほんま",
@@ -807,7 +807,7 @@
     "note": "Very common in Osaka/Kyoto speech. (Set 5)",
     "id": 81,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "なんでやねん",
@@ -817,7 +817,7 @@
     "note": "Classic comedic retort (tsukkomi). (Set 5)",
     "id": 82,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "めっちゃ",
@@ -827,7 +827,7 @@
     "note": "Now used nationwide. (Set 5)",
     "id": 83,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "あかん",
@@ -837,7 +837,7 @@
     "note": "Used for prohibition/failure. (Set 5)",
     "id": 84,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜へん",
@@ -897,7 +897,7 @@
     "note": "Reason marker in Kyushu. (Set 5)",
     "id": 90,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "よか",
@@ -907,7 +907,7 @@
     "note": "Common Kyushu replacement. (Set 5)",
     "id": 91,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "でら",
@@ -917,7 +917,7 @@
     "note": "Characteristic Nagoya intensifier. (Set 5)",
     "id": 92,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜だがや",
@@ -927,7 +927,7 @@
     "note": "Strong Nagoya marker. (Set 5)",
     "id": 93,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "ぶち",
@@ -936,7 +936,7 @@
     "region": "Yamaguchi/Hiroshima",
     "note": "Regional intensifier. (Set 5)",
     "id": 94,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
